@@ -249,7 +249,7 @@ button:focus {
 }
 
 .service-card-col {
-    background: var(--clr-gray);
+    background: var(--clr-accent);
     margin-bottom: 2rem;
     padding: 3rem 3rem;
     transition: 0.3s linear;
@@ -262,7 +262,7 @@ button:focus {
 }
 
 .service-card-col:hover {
-    background: var(--clr-accent);
+    background: var(--clr-gray);
 }
 
 .service-card-col:hover .more-btn {
